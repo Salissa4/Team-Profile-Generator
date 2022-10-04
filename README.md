@@ -14,9 +14,9 @@ Actions:
 ## Table Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Test](#test)
 * [Credits](#credits)
 * [License](#license)
+* [Test](#test)
 
 ## Installation
 
@@ -32,16 +32,12 @@ placeholder
 
 <img src=" ">
 
-## Test
-
-From the command line run 'npm test'
-
 ## Credits
 
 Edited: 
 
-Person 1
-Person 2
+-Person 1
+-Person 2
 
 ## License
 
@@ -66,6 +62,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Test
+
+From the command line run 'npm test'
 
 ## Badges
 
