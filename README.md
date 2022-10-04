@@ -12,11 +12,11 @@ Actions:
 
 
 ## Table Contents
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Test] (#test)
-* [Credits] (#credits)
-* [License] (#license)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Test](#test)
+* [Credits](#credits)
+* [License](#license)
 
 ## Installation
 
