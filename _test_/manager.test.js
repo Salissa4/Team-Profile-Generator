@@ -6,8 +6,8 @@ test("Can set constructor", () => {
 });
 
 test("Can we get office number", () => {
-    const officeNumber = new Manager('Name', 4, 'test@test,com', 4321);
-    expect(manager.officeNumber).toEqual(expect.any(officeNumber));
+    const manager = new Manager('Name', 4, 'test@test,com', 4321);
+    expect(manager.officeNumber).toEqual(expect.any(officNumber));
 });
 
 test("Can we get employee role", () => {
