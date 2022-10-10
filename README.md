@@ -32,8 +32,6 @@ View walk through video: https://drive.google.com/file/d/1gW-Lqs_L7hLKVmW-nuUjor
 
 ## Credits
 
-Edited: 
-
 Debug: Tomas Diaz           Github: https://github.com/tomasdiaz83
 
 ## License
