@@ -22,6 +22,11 @@ Actions:
 
 Please clone the github repository and install node.js. The application requires a file system, inquirer module, and if testing utilize jest. 
 
+From Command Line Run:
+    1. `npm init -y`
+    2. `npm install inquirer@8.2.4`
+    3. `npm install --save-dev jest`
+
 ## Usage
 
 From the command line run 'node index.js' and answer prompts. 
