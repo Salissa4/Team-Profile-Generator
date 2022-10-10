@@ -10,7 +10,6 @@ const Intern = require('./lib/intern');
 const fs = require('fs'); 
 const inquirer = require('inquirer');
 
-// team array
 const teamArray = []; 
 
 // manager prompts 
