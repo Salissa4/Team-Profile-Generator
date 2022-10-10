@@ -1,5 +1,5 @@
 // link to html
-const generateHTML = require('./src/template');
+const generateHTML = require("./src/template.js");
 
 // team profiles
 const Manager = require('./lib/manager');
