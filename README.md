@@ -26,18 +26,15 @@ Please clone the github repository and install node.js. The application requires
 
 From the command line run 'node index.js' and answer prompts. 
 
-View walk through video: 
+View walk through video: https://drive.google.com/file/d/1gW-Lqs_L7hLKVmW-nuUjorEQM51r539J/view
 
-placeholder
-
-<img src=" ">
+![Team Profile Gen](/assets/images/teamprofile.png)
 
 ## Credits
 
 Edited: 
 
--Person 1
--Person 2
+Debug: Tomas Diaz           Github: https://github.com/tomasdiaz83
 
 ## License
 
