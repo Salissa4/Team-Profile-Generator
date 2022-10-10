@@ -61,12 +61,11 @@ const generateIntern = function (intern) {
 // push array to page 
 generateHTML = (data) => {
 
-    // array for cards 
     pageArray = []; 
 
     for (let i = 0; i < data.length; i++) {
         const employee = data[i];
-        const role = getRole(); 
+        const role = employee.getRole(); 
 
 
         // call manager function
