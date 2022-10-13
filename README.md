@@ -31,7 +31,7 @@ From Command Line Run:
 
 From the command line run 'node index.js' and answer prompts. 
 
-View walk through video: https://drive.google.com/file/d/1twS1A08iajjSLBJXi3DE069h6G4fhXIu/view
+View walk through video: https://drive.google.com/file/d/1xt1VxOOBLF4myn_iY7OfrVdl3Q2HCNn1/view
 
 ![Team Profile Gen](/assets/images/teamprofile.png)
 
