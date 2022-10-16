@@ -8,7 +8,6 @@ Actions:
 1. Use the command line to intake information via node and generate an HTML
 2. Ensure email and github are active links when HTML is generated
 3. Create tests for all classes
-4. placeholder 
 
 
 ## Table Contents
